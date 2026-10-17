@@ -1,6 +1,6 @@
 # ================================================================
 # Reproduce the two tables from the Engelhardt & Gruber (2011)
-# replication package (see README_replication.md):
+# replication package (see README.md):
 #   output/eg/oop_did_table_K4_pre2005_age60plus.tex   (empirical application)
 #   output/sim_K/sim_K_table.tex                       (choose-K simulation)
 # All paths (inputs, data/clean/, output/) are relative to the folder
